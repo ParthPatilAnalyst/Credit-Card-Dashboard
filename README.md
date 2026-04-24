@@ -8,6 +8,9 @@ The **Credit Card Analytics Dashboard** is a comprehensive business intelligence
 
 In today’s data-driven environment, organizations require fast and accurate insights to make decisions. This project addresses that need by providing a centralized analytics solution that helps stakeholders understand customer behavior, spending patterns, and overall revenue performance.
 
+![image alt](https://github.com/ParthPatilAnalyst/Credit-Card-Dashboard/blob/dbcddf55cd29d444acc9488cc377040d25b71568/1.png)
+![image alt](https://github.com/ParthPatilAnalyst/Credit-Card-Dashboard/blob/dbcddf55cd29d444acc9488cc377040d25b71568/2.png)
+
 ---
 
 ## Project Description
