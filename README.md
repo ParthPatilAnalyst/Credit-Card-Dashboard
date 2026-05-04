@@ -264,4 +264,3 @@ After implementing this dashboard:
 This project demonstrates strong practical knowledge of data analytics, Power BI, and business intelligence concepts. It highlights the ability to convert raw data into actionable insights and build professional dashboards that support real-world business decisions.
 
 
-If you want next step, I can make this **top 1% README with screenshots, badges, and recruiter-focused storytelling** (this can really help in job selection).
